@@ -53,6 +53,8 @@ of the /app/webroot/ folder (either js or java subdirectories)
 
 Source Content
 ==============
+The SQL schemes and example data can be found at ftp://ftp.psb.ugent.be/pub/trapid/src/trapid_database.tar.gz
+
 1) SQL scheme/data for 3 required databases:
 	- The TRAPID database itself, for storing the transcripts, functional annotation and gene family information
 	- Taxonomy database containing species taxonomy
