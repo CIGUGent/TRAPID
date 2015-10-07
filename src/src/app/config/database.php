@@ -135,21 +135,5 @@ class DATABASE_CONFIG {
 		'prefix' 	=> '',
 		'encoding' 	=> ''
 	);	
-
-	/*	
-	var $workbench = array(
-		'driver'	=> 'mysql',
-		'persistent'	=> false,
-		'host'		=> 'psbsql03',
-		'port'		=> '',
-		'login'		=> 'plaza_workbench',
-		'password'	=> 'wb_plaza_roxor',
-		'database'	=> DB_WORKBENCH_NAME,	//defined in /cake/config/paths.php
-		'schema'       	=> '',
-		'prefix'	=> '',					
-	     	'encoding'	=> ''
-	);
-	*/
-
 }
 ?>
